@@ -18,5 +18,14 @@
     <ClCompile Include="ToOfferFoxlora.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="FindGreatestSumOfSubArray.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="maxInWindows.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="test.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

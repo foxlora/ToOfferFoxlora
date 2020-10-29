@@ -139,6 +139,9 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="FindGreatestSumOfSubArray.cpp" />
+    <ClCompile Include="maxInWindows.cpp" />
+    <ClCompile Include="test.cpp" />
     <ClCompile Include="ToOfferFoxlora.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
